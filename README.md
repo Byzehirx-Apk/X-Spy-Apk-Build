@@ -1,5 +1,6 @@
 ## X-Spy Apk Build App 
 
+
 <h1 style="text-align:center">&nbsp;</h1>
 
 <p style="text-align:center"><span style="font-family:Georgia,serif"><span style="color:#6a040f"><span style="font-size:24px"><strong>Android X-Spy Apk Build</strong></span></span></span></p>
@@ -27,6 +28,9 @@
 <p style="text-align:center"><span style="font-size:20px"><span style="color:#d00000"><span style="font-family:Verdana,Geneva,sans-serif"><strong>X-Spy Build Apk Dosyasının Analizi ve Bilgisi</strong></span></span></span></p>
 
 <p style="text-align:center"><span style="font-family:Verdana,Geneva,sans-serif"><strong><span style="color:#f39c12">Uy</span><span style="color:#f39c12">gulamanın &Ccedil;alışma ve Oluşturulma APK INFO</span></strong></span></p>
+
+## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
+
 
 <p style="text-align:center">&nbsp;</p>
 <table style="border-collapse: collapse; width: 91.6705%; height: 306px;" border="1">
