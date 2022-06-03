@@ -1,7 +1,5 @@
-## O Bir TurkHackTeam Üyesi 
-<a href="[https://www.turkhackteam.org/](https://www.turkhackteam.org/uye/byzehirx.629747/)  ​">https://www.turkhackteam.org/ ​</a>
+## O Bir TurkHackTeam Üyesi <a href="[https://www.turkhackteam.org/](https://www.turkhackteam.org/uye/byzehirx.629747/)  ​">https://www.turkhackteam.org/ Developer Profile​</a>
 <h1 style="text-align:center">&nbsp;</h1>
-
 <p style="text-align:center"><span style="font-family:Georgia,serif"><span style="color:#6a040f"><span style="font-size:24px"><strong>Android X-Spy Apk Build</strong></span></span></span></p>
 
 <p style="text-align:center"><strong><span style="color:#e85d04">X-Spy&nbsp;<span style="font-family:Verdana,Geneva,sans-serif">Apk Build Mobil Uygulaması Nedir ?</span></span></strong></p>
