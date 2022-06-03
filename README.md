@@ -101,7 +101,7 @@
 
 <p style="text-align:center"><span style="font-family:Tahoma,Geneva,sans-serif"><span style="font-size:20px"><strong>Android X-Spy Apk Build</strong></span></span></p>
 
-<p><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><span style="font-size:16px"><strong>X-Spy Apk Build Uygulaması kullanım detayı.&nbsp; X-Spy Build uygulaması&nbsp;<a href="https://www.turkhackteam.org/"></a>&nbsp;forum sitesinde paylaşılan&nbsp;</strong></span></span></p>
+<p><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><span style="font-size:16px"><strong>X-Spy Apk Build Uygulaması kullanım detayı.&nbsp; X-Spy Build uygulaması&nbsp;<p><a href="https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/">1.Version Yayınlandı.</a></p>&nbsp;forum sitesinde paylaşılan&nbsp;</strong></span></span></p>
 
 <ul>
 	<li><span style="font-size:12px"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong><a href="https://www.turkhackteam.org/konular/2021-android-anti-log-spy-casus-apk-foruma-ozel.1979200/">https://www.turkhackteam.org/konular/2021-android-anti-log-spy-casus-apk-foruma-ozel.1979200/</a></strong></span></span></li>
