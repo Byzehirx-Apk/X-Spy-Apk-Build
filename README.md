@@ -13,9 +13,6 @@
 <h4 style="text-align: center;"><span style="color: #ff0000;"><strong>Dosyasının Analizi ve Bilgisi</strong></span></h4>
 <table style="height: 322px; width: 504px; margin-left: auto; margin-right: auto;">
 <tbody>
-## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
-
-
 <p style="text-align:center">&nbsp;</p>
 <table style="border-collapse: collapse; width: 91.6705%; height: 306px;" border="1">
 <tbody>
@@ -81,6 +78,7 @@
 </tr>
 </tbody>
 </table>
+## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><span style="color: #00ff00;">((( Permissions (com.xspy.build) AndroidManifest.xml )))</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.INTERNET"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_PHONE_STATE"/&gt;</span></p>
 <p style="text-align: center;">&nbsp;</p>
