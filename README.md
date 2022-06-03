@@ -78,7 +78,6 @@
 </tr>
 </tbody>
 </table>
-## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><span style="color: #00ff00;">((( Permissions (com.xspy.build) AndroidManifest.xml )))</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.INTERNET"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_PHONE_STATE"/&gt;</span></p>
 <p style="text-align: center;">&nbsp;</p>
@@ -116,6 +115,7 @@
 <p style="text-align: center;">&copy;<br />Uygulamayı k&ouml;t&uuml;ye kullanmak veya bir başka kişilerin izni olmadan bilgisine erişmek/erişmeye &ccedil;alışmak zarar vermek ama&ccedil;lı eylemde bulunmak kanunen su&ccedil;tur.<br />Sorumluluk reddi<br />X-Spy Apk Build com.xspy.build packet isimli uygulamanın kullanıcıların verilerini saklamaz veya depolamaz <br />S&ouml;z konusu uygulamanın geliştiricisi tarafından Sorumluluk Reddini t&uuml;m kullanıcılar kabul eder ve bilginiz dahilinde olduğunu teyit edersiniz.<br />Geliştirici kullanıcılar tarafından oluşturulan i&ccedil;eriği ya da hukuka aykırı faaliyetlerini kontrol etmekle ya da araştırmakla y&uuml;k&uuml;ml&uuml; ve sorumlu değildir.</p>
 <h2 style="text-align: center;"><span style="color: #ff0000;"><strong>!!!</strong></span></h2>
 <p style="text-align: center;"><span style="background-color: #999999; color: #008080;">X-Spy build uygulaması ile ( 5651 sayılı Kanununun 26/9/2004 tarihli ve 5237 sayılı T&uuml;rk Ceza Kanununda yer alan su&ccedil;lardan oluşabilecek Maddi veya Manevi zararlardan sorumlu değilimdir uygulamayı kullanmak istiyenlerin kişi veya kişiler X-Spy Uygulamasının sorumluluğunu kabul eder ve beyan etmiştir. )</span></p>
+## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ```markdown
