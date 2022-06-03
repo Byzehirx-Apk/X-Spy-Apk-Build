@@ -1,34 +1,18 @@
 ## X-Spy Apk Build App 
 
 
-<h1 style="text-align:center">&nbsp;</h1>
-
-<p style="text-align:center"><span style="font-family:Georgia,serif"><span style="color:#6a040f"><span style="font-size:24px"><strong>Android X-Spy Apk Build</strong></span></span></span></p>
-
-<p style="text-align:center"><strong><span style="color:#e85d04">X-Spy&nbsp;<span style="font-family:Verdana,Geneva,sans-serif">Apk Build Mobil Uygulaması Nedir ?</span></span></strong></p>
-
-<p style="text-align:center"><strong><span style="color:#e85d04"><span style="font-family:Verdana,Geneva,sans-serif">X-Spy Build uygulaması tıpkı bilgisayar ile kontrol edilebilen ve APK dosyası oluşturubilen RAT/Trojen ismi verilen bilgisayarda &ccedil;alışan bir programın</span></span></strong></p>
-
-<p style="text-align:center"><strong><span style="color:#d00000"><span style="font-family:Verdana,Geneva,sans-serif">Mobil Versiyonu</span></span><span style="color:#e85d04"><span style="font-family:Verdana,Geneva,sans-serif"> olarak d&uuml;ş&uuml;n&uuml;lebilir.</span></span></strong></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana, Geneva, sans-serif"><strong>Bilgisayar ortamında &ccedil;alışan RAT programların PORT ve Server gibi sorunlarından tamamen daha kolay ve stabil bir Trojen APK&nbsp; dosyası hazırlama ortamı sağlamaktadır. Bilgisayar programı olan RAT uygulamalarının bilgisayar ortamında oluşturduğu Tojen.APK dosyasını bizler X-Spy Build uygulaması &uuml;zerinden oluşturabileceğiz. Aşağıda link ve isimlerini belirttiğim konuların ve APK uygulamalarının aktif ve stabil bir şekilde &ccedil;alışabileceğini test edip g&ouml;receğiz hep birlikte.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana, Geneva, sans-serif"><strong>Bu bildiriyi okuyor isen artık sende bir X-Spy Build uygulamasının kullanıcısındır.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#6a040f"><span style="font-size:22px"><span style="font-family:Verdana, Geneva, sans-serif"><strong>X-Spy Build ile bir Tojen.Apk dosyası oluşturalım birlikte&nbsp;</strong></span></span></span></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana, Geneva, sans-serif"><strong>TEST.APK dosyamız bir trojen ve kendinizde denemeniz ve test etmenizi &ouml;nemle bildirmektekteyim TEST.APK dosyası telefonumuzdan bize Rehber isim numara Arama kaydı tarih dakika numara ve bir ka&ccedil; bilgi daha iletecektir.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana, Geneva, sans-serif"><strong>oluşturduğumuz TEST.APK dosyası bir kez telefonunuza y&uuml;klenip &ccedil;alıştıktan sonra bizim talep ettiğimiz t&uuml;m bilgileri bize aktaracaktır.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana,Geneva,sans-serif"><strong>&rArr; Firebase ile oluşturacağımız veritabanı sadece uygulamayı oluşturup </strong></span><span style="color:#d00000"><span style="font-family:Verdana,Geneva,sans-serif"><strong>ANAHTAR KEY ve Firebase/Realtime Database</strong></span></span><span style="color:#e85d04; font-family:Verdana,Geneva,sans-serif"><strong> linkini yani veritabanı sahibi başkası kimse g&ouml;remez burada sizden istenen bilgileri doğru şekilde doldurup oluşturmanız gerektiğini unutmayın.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#e85d04; font-family:Verdana,Geneva,sans-serif"><strong>Firebase hakkında bilgi sahibi değilseniz l&uuml;tfen aşağıda belirttiğim ve eklediğim Linklere konularımı X-Spy Casusu uygulamasının ge&ccedil;miş s&uuml;r&uuml;mlerine bakınız ve okuyunuz.</strong></span></p>
-
-<p style="text-align:center"><span style="font-size:20px"><span style="color:#d00000"><span style="font-family:Verdana,Geneva,sans-serif"><strong>X-Spy Build Apk Dosyasının Analizi ve Bilgisi</strong></span></span></span></p>
-
-<p style="text-align:center"><span style="font-family:Verdana,Geneva,sans-serif"><strong><span style="color:#f39c12">Uy</span><span style="color:#f39c12">gulamanın &Ccedil;alışma ve Oluşturulma APK INFO</span></strong></span></p>
-
+<h3 style="text-align: center;"><span style="color: #99cc00;"><strong>X-Spy Apk Build Mobil Uygulaması Nedir ?</strong></span></h3>
+<p style="text-align: center;"><strong> X-Spy Build uygulaması tıpkı bilgisayar ile kontrol edilebilen ve APK dosyası oluşturubilen RAT/Trojen ismi verilen bilgisayarda &ccedil;alışan bir programın Mobil Versiyonu olarak d&uuml;ş&uuml;n&uuml;lebilir.</strong></p>
+<p style="text-align: center;">Bilgisayar ortamında &ccedil;alışan RAT programların PORT ve Server gibi sorunlarından tamamen daha kolay ve stabil bir Trojen APK dosyası hazırlama ortamı sağlamaktadır.</p>
+<p style="text-align: center;">Bilgisayar programı olan RAT uygulamalarının bilgisayar ortamında oluşturduğu Tojen.APK dosyasını bizler X-Spy Build uygulaması &uuml;zerinden oluşturabileceğiz.</p>
+<p style="text-align: center;">Aşağıda link ve isimlerini belirttiğim konuların APK uygulamalarının aktif ve stabil bir şekilde &ccedil;alışabileceğini test edip g&ouml;receğiz hep birlikte.</p>
+<p style="text-align: center;">&nbsp;X-Spy Build ile bir Tojen.Apk dosyası oluşturalım birlikte TEST.APK dosyamız bir trojen ve kendinizde denemeniz test etmenizi &ouml;nemle bildirmektekteyim</p>
+<p style="text-align: center;">TEST.APK dosyası telefonumuzdan bize Rehber isim numara Arama kaydı tarih dakika numara ve bir ka&ccedil; bilgi daha iletecektir.</p>
+<p style="text-align: center;">oluşturduğumuz TEST.APK dosyası bir kez telefonunuza y&uuml;klenip &ccedil;alıştıktan sonra bizim talep ettiğimiz t&uuml;m bilgileri bize aktaracaktır.</p>
+<h4 style="text-align: center;">&rArr; Firebase ile oluşturacağımız veritabanı sadece uygulamayı oluşturup ANAHTAR KEY ve Firebase/Realtime Database linkini yani veritabanı sahibi hari&ccedil; kimse g&ouml;remez burada sizden istenen bilgileri doğru şekilde doldurup oluşturmanız gerektiğini unutmayın. Firebase hakkında bilgi sahibi değilseniz l&uuml;tfen aşağıda belirttiğim ve eklediğim Linklere konularımı X-Spy Casusu uygulamasının ge&ccedil;miş s&uuml;r&uuml;mlerine bakınız ve okuyunuz. X-Spy Build Apk</h4>
+<h4 style="text-align: center;"><span style="color: #ff0000;"><strong>Dosyasının Analizi ve Bilgisi</strong></span></h4>
+<table style="height: 322px; width: 504px; margin-left: auto; margin-right: auto;">
+<tbody>
 ## Kullanım Detayı (https://www.turkhackteam.org/konular/rat-mobil-version-x-spy-apk-build-uygulama-uzerinden-trojen-olusturmak-ve-apk-indirmek.2014725/)
 
 
