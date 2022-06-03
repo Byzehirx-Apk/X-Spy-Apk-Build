@@ -81,92 +81,45 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Uygulamanın geliştirilme ortamı:Native(Java) C/C++ libraries ve Json Programlama Language&nbsp;</strong></p>
-<p><strong>Test s&uuml;recinde analizleri 64Bit Qualcomm arm64-v8a ve armeabi-v7a olarak belirtmekte isterim sorunsuz ve stabil bir test s&uuml;reci ge&ccedil;irdik.</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="color: #00ff00;">((( Permissions (com.xspy.build) AndroidManifest.xml )))</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.INTERNET"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/&gt;</span><br /><span style="color: #00ff00;"> &lt;uses-permission android:name="android.permission.READ_PHONE_STATE"/&gt;</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Uygulamanın geliştirilme ortamı:Native(Java) C/C++ libraries ve Json Programlama Language</strong></p>
+<p style="text-align: center;"><strong>Test s&uuml;recinde analizleri 64Bit Qualcomm arm64-v8a ve armeabi-v7a olarak belirtmekte isterim</strong><br /><strong>Geliştirici Developer By ZehirX</strong><br /><strong>Uygulamanın kullanıcılarına genel bilgi ama&ccedil;lı uygulama aracılığı ile t&uuml;m kullanıcılara Bildiri g&ouml;nderme yetkisine sahiptir. </strong><br /><strong>Uygulamanın kullanımını sonlandırmak</strong><br /><strong>Uygulamanın yeni s&uuml;r&uuml;mleri hakkında bildirim g&ouml;ndermek</strong><br /><strong>Uygulamanın bakımı ve onarımı i&ccedil;in bildirim g&ouml;ndermek</strong></p>
+<p style="text-align: center;">Android X-Spy Apk Build</p>
+<p style="text-align: center;">X-Spy Apk Build Uygulaması kullanım detayı. X-Spy Build uygulaması https://www.turkhackteam.org/ ​ forum sitesinde paylaşılan</p>
+<p style="text-align: center;">https://www.turkhackteam.org/konular/2021-android-anti-log-spy-casus-apk-foruma-ozel.1979200/<br />https://www.turkhackteam.org/konular/foruma-ozel-android-tht-logger-apk.1957076/<br />https://www.turkhackteam.org/konular/foruma-ozel-android-casus-uyg-3-version-app-duyurusu-byzehirx.1987236/<br />https://www.turkhackteam.org/konular/new-android-x-spy-casus-uygulamasi-2022-byzehirx.2006115/<br />Yukarıda konu linkleri paylaşılan Turkhackteam/Forum &uuml;yelerinin kullanımına sunulan android uygulamaları artık (Benden) bağımsız aktif olarak kullanıma a&ccedil;ılacaktır.<br />Android AntiLog Spy Casusu Apk<br />Android Logger Casusu Apk <br />Android Sms Casusu Apk<br />Android X-Spy Casusu Apk <br /> Uygulama isimleri ve konu linkleri belirtilen ( Android Spy &amp; Casus ) uygulamalarını tekrar ve g&uuml;ncel s&uuml;r&uuml;mleri ile kullanabileceksiniz.</p>
+<p style="text-align: center;">Android X-Spy Apk Build</p>
+<p style="text-align: center;">X-Spy Apk Build uygulamasının kullanım detayları</p>
+<p style="text-align: center;">1.Detay yukarıda ismi ve konu linkleri paylaşılan t&uuml;m konuları okumalı veya konulara hakim olunmalı aksi takdirde X-Spy Build uygulamasını kullanamazsınız.</p>
+<p style="text-align: center;">X-Spy Build uygulamasını telefonunuza indirmeden &ouml;nce ( https://firebase.google.com/ ) sitesine girip birtane "Realtime Database" oluşturulmalı Firebase/Realtime Database uygulamasını bilmiyen arkadaşlar yukarıda paylaştığım konu linklerini okuyabilirler detaylı bir şekilde anlatılmıştır.</p>
+<p style="text-align: center;">Mevcut bir tane https://console.firebase.google.com/ "Realtime Database" sahip olduğumuzda uygulamayı indirebiliriz.</p>
+<p style="text-align: center;">X-Spy Build uygulaması telefonumuza y&uuml;klediğimiz zaman aktif bir şekilde kullanıma hazır olacaktır</p>
+<p style="text-align: center;">1.Aşama X-Spy Build uygulaması ile "Casus Apk" dosyası oluşturabiliriz. [build]</p>
+<p style="text-align: center;">Anahtar Key / Bir Anahatar oluşturacağız [ Boş ] bırakılamaz. <br />Anahtar Key ( Minimum ) 6 harf,rakam ve karakterde olmalıdır <br />Firebase Link / Buraya ise "Firebase/Realtime Database" oluşturduğumuz linki ekliyoruz. <br />Apk oluştur a dokunuyoruz.<br />2.Aşama Oluşturulan [ Build ] Apk dosyamızı se&ccedil;iyoruz</p>
+<p style="text-align: center;">Android AntiLog Spy Casusu Apk<br />Android Logger Casusu Apk <br />Android Sms Casusu Apk<br />Android X-Spy Casusu Apk <br /> Uygulama isimleri ve konu linkleri belirtilen ( Android Spy &amp; Casus ) uygulamalarını tekrar ve g&uuml;ncel s&uuml;r&uuml;mleri ile kullanabileceksiniz.</p>
+<p style="text-align: center;">Android X-Spy Apk Build</p>
+<p style="text-align: center;">X-Spy Apk Build uygulamasının kullanım detayları</p>
+<p style="text-align: center;">1.Detay yukarıda ismi ve konu linkleri paylaşılan t&uuml;m konuları okumalı veya konulara hakim olunmalı aksi takdirde X-Spy Build uygulamasını kullanamazsınız.</p>
+<p style="text-align: center;">X-Spy Build uygulamasını telefonunuza indirmeden &ouml;nce ( https://firebase.google.com/ ) sitesine girip birtane "Realtime Database" oluşturulmalı Firebase/Realtime Database uygulamasını bilmiyen arkadaşlar yukarıda paylaştığım konu linklerini okuyabilirler detaylı bir şekilde anlatılmıştır.</p>
+<p style="text-align: center;">Mevcut bir tane https://console.firebase.google.com/ "Realtime Database" sahip olduğumuzda uygulamayı indirebiliriz.</p>
+<p style="text-align: center;">X-Spy Build uygulaması telefonumuza y&uuml;klediğimiz zaman aktif bir şekilde kullanıma hazır olacaktır</p>
+<p style="text-align: center;">1.Aşama X-Spy Build uygulaması ile "Casus Apk" dosyası oluşturabiliriz. [build]</p>
+<p style="text-align: center;">Anahtar Key / Bir Anahatar oluşturacağız [ Boş ] bırakılamaz. <br />Anahtar Key ( Minimum ) 6 harf,rakam ve karakterde olmalıdır <br />Firebase Link / Buraya ise "Firebase/Realtime Database" oluşturduğumuz linki ekliyoruz. <br />Apk oluştur a dokunuyoruz.<br />2.Aşama Oluşturulan [ Build ] Apk dosyamızı se&ccedil;iyoruz</p>
+<p style="text-align: center;">X-Spy Build uygulamasının bizim i&ccedil;in oluşturduğu Spy Casus.apk dosyamızı indiriyoruz.<br />Download edilen Casus apk dosyamızı kendimiz TEST edebilir veya bir başka telefon &uuml;zerinde deniyebiliriz. <br /> TEST X-Spy Apk Build uygulaması ile oluşturduğumu Casus.apk dosyamızı test edelim</p>
+<p style="text-align: center;">1.Aşamaya geri d&ouml;nelim</p>
+<p style="text-align: center;">Apk oluşturmak i&ccedil;in ilk aşamada belirttiğimiz Anahtar Key kutusuna belirttiğimiz tokenimizi TEST i&ccedil;in oluşturduğumuz</p>
+<p style="text-align: center;">Apk dosyamızın giriş kutusuna yazıyoruz ve buttona dokunuyoruz. Bizim i&ccedil;in bu kadar kısa &ccedil;alışması yeterli.</p>
+<p style="text-align: center;">"<span style="color: #ff0000;">Anahtar Key</span> " Sebebi a&ccedil;ıklama</p>
+<p style="text-align: center;">Yukarıda Apk dosyası oluşturmak i&ccedil;in yazdığımız " Firebase link ( Realtime Database ) " https://console.firebase.google.com/ linkine erişim sağlamak i&ccedil;in oluşturduğumuz</p>
+<p style="text-align: center;">( TAG ) Anahtarıdır Anahtar Key</p>
+<p style="text-align: center;">Firebase kavramını iyi anlamak adına yukarıda belirttiğim konularıma bakabilirsiniz.</p>
+<p style="text-align: center;">Bu uygulama test ve eğitim ama&ccedil;lı paylaşılmıştır başka forum veya sanal ortamda paylaşılması kesinlikle yasaktır.</p>
+<p style="text-align: center;">&copy;<br />Uygulamayı k&ouml;t&uuml;ye kullanmak veya bir başka kişilerin izni olmadan bilgisine erişmek/erişmeye &ccedil;alışmak zarar vermek ama&ccedil;lı eylemde bulunmak kanunen su&ccedil;tur.<br />Sorumluluk reddi<br />X-Spy Apk Build com.xspy.build packet isimli uygulamanın kullanıcıların verilerini saklamaz veya depolamaz <br />S&ouml;z konusu uygulamanın geliştiricisi tarafından Sorumluluk Reddini t&uuml;m kullanıcılar kabul eder ve bilginiz dahilinde olduğunu teyit edersiniz.<br />Geliştirici kullanıcılar tarafından oluşturulan i&ccedil;eriği ya da hukuka aykırı faaliyetlerini kontrol etmekle ya da araştırmakla y&uuml;k&uuml;ml&uuml; ve sorumlu değildir.</p>
+<h2 style="text-align: center;"><span style="color: #ff0000;"><strong>!!!</strong></span></h2>
+<p style="text-align: center;"><span style="background-color: #999999; color: #008080;">X-Spy build uygulaması ile ( 5651 sayılı Kanununun 26/9/2004 tarihli ve 5237 sayılı T&uuml;rk Ceza Kanununda yer alan su&ccedil;lardan oluşabilecek Maddi veya Manevi zararlardan sorumlu değilimdir uygulamayı kullanmak istiyenlerin kişi veya kişiler X-Spy Uygulamasının sorumluluğunu kabul eder ve beyan etmiştir. )</span></p>
 <p>&nbsp;</p>
-<p style="text-align:center">&nbsp;</p>
-
-<p style="text-align:center">&nbsp;</p>
-
-<p style="text-align:center"><span style="font-family:Tahoma,Geneva,sans-serif"><span style="font-size:20px"><strong>Android X-Spy Apk Build</strong></span></span></p>
-
-<p><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><span style="font-size:16px"><strong>X-Spy Apk Build Uygulaması kullanım detayı.&nbsp; X-Spy Build uygulaması&nbsp;<a href="https://www.turkhackteam.org/  ​">https://www.turkhackteam.org/ ​</a>&nbsp;forum sitesinde paylaşılan&nbsp;</strong></span></span></p>
-
-<ul>
-	<li><span style="font-size:12px"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong><a href="https://www.turkhackteam.org/konular/2021-android-anti-log-spy-casus-apk-foruma-ozel.1979200/">https://www.turkhackteam.org/konular/2021-android-anti-log-spy-casus-apk-foruma-ozel.1979200/</a></strong></span></span></li>
-	<li><span style="font-size:12px"><a href="https://www.turkhackteam.org/konular/foruma-ozel-android-tht-logger-apk.1957076/"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>https://www.turkhackteam.org/konular/foruma-ozel-android-tht-logger-apk.1957076/</strong></span></a></span></li>
-	<li><span style="font-size:12px"><a href="https://www.turkhackteam.org/konular/foruma-ozel-android-casus-uyg-3-version-app-duyurusu-byzehirx.1987236/"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>https://www.turkhackteam.org/konular/foruma-ozel-android-casus-uyg-3-version-app-duyurusu-byzehirx.1987236/</strong></span></a></span></li>
-	<li><span style="font-size:12px"><a href="https://www.turkhackteam.org/konular/new-android-x-spy-casus-uygulamasi-2022-byzehirx.2006115/">https://www.turkhackteam.org/konular/new-android-x-spy-casus-uygulamasi-2022-byzehirx.2006115/</a></span></li>
-</ul>
-
-<p><span style="color:#00a877"><strong>Yukarıda konu linkleri paylaşılan Turkhackteam/Forum &uuml;yelerinin kullanımına sunulan android uygulamaları artık bağımsız olarak aktif olarak kullanıma a&ccedil;ılacaktır.</strong></span></p>
-
-<ul>
-	<li><span style="font-family:Tahoma,Geneva,sans-serif"><span style="color:#084c35"><strong>Android AntiLog Spy Casusu Apk</strong></span></span></li>
-	<li><span style="font-family:Tahoma,Geneva,sans-serif"><span style="color:#084c35"><strong>Android Logger Casusu Apk&nbsp;</strong></span></span></li>
-	<li><span style="font-family:Tahoma,Geneva,sans-serif"><span style="color:#084c35"><strong>Android Sms Casusu Apk</strong></span></span></li>
-	<li><span style="font-family:Tahoma,Geneva,sans-serif"><span style="color:#084c35"><strong>Android X-Spy Casusu Apk&nbsp;</strong></span></span></li>
-</ul>
-
-<p><strong>&nbsp;<span style="color:#00a877">Uygulama isimleri ve konu linkleri belirtilen ( Android Spy &amp; Casus ) uygulamalarını tekrar ve g&uuml;ncel s&uuml;r&uuml;mleri ile kullanabileceksiniz.</span></strong></p>
-
-<p style="text-align:center"><span style="font-family:Tahoma,Geneva,sans-serif"><span style="font-size:20px"><strong>Android X-Spy Apk Build&nbsp;</strong></span></span></p>
-
-<p style="text-align:center"><span style="color:#00a877"><span style="font-family:Tahoma,Geneva,sans-serif"><strong>X-Spy Apk Build uygulamasının kullanım detayları&nbsp;</strong></span></span></p>
-
-<p style="text-align:center"><span style="color:#00a877"><span style="font-family:Tahoma,Geneva,sans-serif"><strong>1.Detay yukarıda </strong></span></span><span style="color:#c0392b"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><u>ismi ve konu linkleri</u></strong></span></span><span style="color:#00a877"><span style="font-family:Tahoma,Geneva,sans-serif"><strong> paylaşılan t&uuml;m konuları okumalı veya konulara hakim olunmalı aksi takdirde X-Spy Build uygulamasını kullanamazsınız.</strong></span></span></p>
-
-<p style="text-align:center"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>X-Spy Build uygulamasını telefonunuza indirmeden &ouml;nce (&nbsp;<a href="https://firebase.google.com/">https://firebase.google.com/</a>&nbsp;) sitesine girip birtane&nbsp;</strong></span><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><span style="color:#c0392b"><span style="font-family:Tahoma,Geneva,sans-serif"><strong>Realtime Database</strong></span></span><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot; oluşturulmalı Firebase/Realtime Database uygulamasını bilmiyen arkadaşlar yukarıda paylaştığım konu linklerini okuyabilirler detaylı bir şekilde anlatılmıştır.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>Mevcut bir tane&nbsp;<a href="https://console.firebase.google.com/">https://console.firebase.google.com/</a>&nbsp;&quot;</strong></span><span style="color:#c0392b"><span style="font-family:Tahoma,Geneva,sans-serif"><strong>Realtime Database</strong></span></span><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot; sahip olduğumuzda uygulamayı indirebiliriz.</strong></span></p>
-
-<p style="text-align:center"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>X-Spy Build uygulaması telefonumuza y&uuml;klediğimiz zaman aktif bir şekilde kullanıma hazır olacaktır</strong></span></p>
-
-<hr />
-<p style="text-align:center"><span style="color:#d35400"><span style="font-size:22px"><strong>1.Aşama</strong></span></span><span style="font-size:14px"><strong><span style="color:#00a877"> </span></strong></span><span style="font-size:16px"><strong><span style="color:#00a877">X-Spy Build uygulaması ile </span></strong><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><strong><span style="color:#00a877">Casus Apk</span></strong><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><strong><span style="color:#00a877"> dosyası oluşturabiliriz. [build]</span></strong></span></p>
-
-<ul>
-	<li><span style="color:#d35400"><strong>Anahtar Key&nbsp;</strong></span><strong><span style="color:#00a877">/ Bir Anahatar oluşturacağız [<u>&nbsp;Boş ] </u>bırakılamaz.</span></strong>&nbsp;</li>
-	<li><strong><span style="color:#d35400">Firebase Link&nbsp;</span><span style="color:#00a877">/ Buraya ise </span></strong><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><strong><span style="color:#c0392b">Firebase/Realtime Database</span></strong><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><strong><span style="color:#00a877"> oluşturduğumuz linki ekliyoruz.</span></strong>&nbsp;&nbsp;</li>
-	<li><span style="color:#00a877"><strong>Apk oluştur a dokunuyoruz.</strong></span></li>
-</ul>
-
-<hr />
-<p style="text-align:center"><span style="color:#d35400"><strong><span style="font-size:22px">2.Aşama&nbsp;</span></strong></span><strong><span style="font-size:16px"><span style="color:#00a877">Oluşturulan [ Build ] Apk dosyamızı se&ccedil;iyoruz&nbsp;</span></span></strong></p>
-
-<ul>
-	<li><strong><span style="color:#00a877">X-Spy Build uygulamasının bizim i&ccedil;in oluşturduğu </span><span style="color:#c0392b">Spy Casus.apk</span><span style="color:#00a877"> dosyamızı indiriyoruz.</span></strong></li>
-	<li><strong><span style="color:#00a877">Download edilen Casus apk dosyamızı kendimiz </span><span style="color:#c0392b"><u>TEST</u></span><span style="color:#00a877"> edebilir veya bir başka telefon &uuml;zerinde deniyebiliriz.</span></strong>&nbsp;&nbsp;</li>
-</ul>
-
-<hr />
-<p style="text-align:center">&nbsp;<strong><span style="color:#d35400"><span style="font-size:22px">TEST&nbsp;</span></span><span style="font-size:16px"><span style="color:#00a877">X-Spy Apk Build uygulaması ile oluşturduğumu Casus.apk dosyamızı test edelim</span></span></strong></p>
-
-<p style="margin-left:40px; text-align:center"><span style="color:#d35400"><u><strong><span style="font-size:16px">1.Aşamaya geri d&ouml;nelim&nbsp;</span></strong></u></span></p>
-
-<p style="margin-left:40px; text-align:center"><strong><span style="font-size:16px"><span style="color:#00a877">Apk oluşturmak i&ccedil;in ilk aşamada belirttiğimiz </span><span style="color:#d35400">Anahtar Key&nbsp;</span><span style="color:#00a877">kutusuna belirttiğimiz tokenimizi </span><span style="color:#d35400">TEST</span><span style="color:#00a877"> i&ccedil;in oluşturduğumuz&nbsp;</span></span></strong></p>
-
-<p style="margin-left:40px; text-align:center"><span style="color:#00a877"><span style="font-size:16px"><strong>Apk dosyamızın giriş kutusuna yazıyoruz ve buttona dokunuyoruz. Bizim i&ccedil;in bu kadar kısa &ccedil;alışması yeterli BİZİM İ&Ccedil;İN.</strong></span></span></p>
-
-<p style="margin-left:40px; text-align:center"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;</strong></span><em><span style="font-size:22px"><strong><span style="color:#c0392b">Anahtar Key&nbsp;</span></strong></span></em><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;&nbsp; Sebebi a&ccedil;ıklama</strong></span></p>
-
-<p style="margin-left:40px; text-align:center"><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>Yukarıda Apk dosyası oluşturmak i&ccedil;in yazdığımız &quot;&nbsp;</strong></span><span style="color:#d35400"><strong>Firebase link ( Realtime Database )&nbsp;</strong></span><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong>&quot;&nbsp;&nbsp;<a href="https://console.firebase.google.com/">https://console.firebase.google.com/</a>&nbsp;linkine erişim sağlamak i&ccedil;in oluşturduğumuz</strong></span></p>
-
-<p style="margin-left:40px; text-align:center"><span style="color:#c0392b"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px">( TAG )</span></strong></span></span><span style="color:#00a877; font-family:Tahoma,Geneva,sans-serif"><strong> Anahtarıdır </strong></span><span style="color:#c0392b"><span style="font-family:Tahoma,Geneva,sans-serif"><strong>Anahtar Key&nbsp;</strong></span></span></p>
-
-<p style="margin-left:40px; text-align:center"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px"><span style="color:#f39c12">Firebase kavramını iyi anlamak adına yukarıda belirttiğim konularıma bakabilirsiniz.</span></span></strong></span></p>
-
-<p style="margin-left:40px; text-align:center"><em><span style="color:#3498db"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px">Bu uygulama test ve eğitim ama&ccedil;lı paylaşılmıştır başka forum veya sanal ortamda paylaşılması kesinlikle yasaktır.</span></strong></span></span></em></p>
-
-<p style="margin-left:40px; text-align:center"><em><span style="color:#3498db"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px">&copy;</span></strong></span></span></em></p>
-
-<p style="margin-left:40px; text-align:center"><sub><em><span style="color:#3498db"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px">Uygulamayı k&ouml;t&uuml;ye kullanmak veya bir başka kişilere zarar vermek bilgisini ele ge&ccedil;irmek&nbsp; Suctur</span></strong></span></span></em></sub></p>
-
-<p style="margin-left:40px; text-align:center"><em><span style="color:#3498db"><span style="font-family:Tahoma,Geneva,sans-serif"><strong><span style="font-size:22px">X-Spy build uygulaması ile (&nbsp;</span></strong></span></span></em>5651 sayılı Kanununun&nbsp;26/9/2004 tarihli ve 5237 sayılı T&uuml;rk Ceza Kanununda yer alan su&ccedil;lardan oluşabilecek Maddi veya Manevi zararlardan sorumlu değilimdir uygulamayı kullanmak istiyenlerin her biri X-Spy Uygulamasının sorumluluğunu kabul ve beyan etmiştir. <strong><span style="color:#2980b9">)</span></strong></p>
-
-<p style="margin-left:40px; text-align:center">&nbsp;</p>
-
-<p style="margin-left:40px; text-align:center">&nbsp;</p>
+<p>&nbsp;</p>
 ```markdown
 Android X-Spy APK Build
 ```
