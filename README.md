@@ -94,7 +94,7 @@
 </table>
 <p><strong>Uygulamanın geliştirilme ortamı:Native(Java) C/C++ libraries ve Json Programlama Language&nbsp;</strong></p>
 <p><strong>Test s&uuml;recinde analizleri 64Bit Qualcomm arm64-v8a ve armeabi-v7a olarak belirtmekte isterim sorunsuz ve stabil bir test s&uuml;reci ge&ccedil;irdik.</strong></p>
-<img src="https://disk.yandex.com.tr/client/disk/sss?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fsss%2FIMG_20220604_090906.jpg" alt="XSpy">
+<img src="https://drive.google.com/file/d/174aR8L-KnEC5PMVWcjSGG8Hekfrp8GjE/view?usp=sharing" alt="XSpy">
 <p>&nbsp;</p>
 <p style="text-align:center">&nbsp;</p>
 
